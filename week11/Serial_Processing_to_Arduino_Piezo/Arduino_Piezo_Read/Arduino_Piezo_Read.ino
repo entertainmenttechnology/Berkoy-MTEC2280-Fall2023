@@ -3,7 +3,7 @@
    Pair with Processing piezo sketch, to control piezo with Processing interface.
 
    For more info on piezos, see: 
-   https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45
+   https://projecthub.arduino.cc/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-cf4191
    and
    https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-11-using-a-piezo-buzzer
    For tone(): https://www.arduino.cc/reference/en/language/functions/advanced-io/tone/ 
